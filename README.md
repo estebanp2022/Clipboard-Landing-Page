@@ -52,4 +52,4 @@ This is my very first project using Tailwind. I'm still developing my skillset a
 
 ## Acknowledgments
 
-In my coninued development, I'm currently taking a Udemy course to learn Tailwind CSS. I completed this project with the guidance of the course author Brad Traversy.
+I'm currently taking a Udemy course to learn Tailwind CSS. I completed this project with the guidance of the course author Brad Traversy. Highly recommend.
