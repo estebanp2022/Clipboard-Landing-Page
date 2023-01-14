@@ -602,10 +602,6 @@ h5 {
   width: 8rem;
 }
 
-.max-w-3xl {
-  max-width: 48rem;
-}
-
 .max-w-md {
   max-width: 28rem;
 }
@@ -722,18 +718,14 @@ h5 {
   line-height: 1.75rem;
 }
 
-.leading-9 {
-  line-height: 2.25rem;
-}
-
 .text-grayishBlue {
   --tw-text-opacity: 1;
   color: hsl(201 11% 66% / var(--tw-text-opacity));
 }
 
-.text-blue-600 {
+.text-blue-400 {
   --tw-text-opacity: 1;
-  color: rgb(37 99 235 / var(--tw-text-opacity));
+  color: rgb(96 165 250 / var(--tw-text-opacity));
 }
 
 .shadow-lg {
@@ -810,6 +802,11 @@ body {
   body {
     background-image: url("../images/bg-header-mobile.png");
   }
+}
+
+.ficon:hover {
+  filter: invert(53%) sepia(68%) saturate(434%) hue-rotate(121deg)
+    brightness(101%) contrast(94%);
 }
 
 .hover\:text-strongCyan:hover {
